@@ -1,0 +1,12 @@
+body {
+  background: rgba(245, 24, 142, 1);
+  background: linear-gradient(
+    45deg,
+    rgba(108, 40, 106, 1) 0%,
+    rgba(245, 24, 142, 1) 39%,
+    rgba(255, 120, 71, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
